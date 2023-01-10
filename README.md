@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' /> -->
+<img src='https://github.com/rathink4/web102_prework/blob/main/website.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
 
 
-GIF created ...
+GIF created with SimpleScreenRecorder and [cloudconvert.com](https://cloudconvert.com/) to convert from '.mkv' to '.gif' file.
 
 ## Notes
 
